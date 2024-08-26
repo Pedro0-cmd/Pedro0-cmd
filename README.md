@@ -3,7 +3,7 @@
 <h2>🖥️ Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](n/a)  
+  - [osTicket: Prerequisites and Installation](https://github.com/Pedro0-cmd/osticketprs)  
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](n/a)
 

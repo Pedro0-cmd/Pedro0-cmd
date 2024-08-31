@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Pedro0-cmd/osticketprs)  
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](n/a)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Pedro0-cmd/Pedro0-cmdazure-network-protocols/blob/main/README.md#inspecting-dns-traffic-in-wireshark)
 
 <h2>Connect with me:</h2>
 
